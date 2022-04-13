@@ -43,7 +43,7 @@
   ### 𝕊𝕀𝕄ℙ𝕃𝔼 𝕄𝔼𝕋ℍ𝕆𝔻
 
 <div>
-<a href="https://replit.com/@ANUSER1/III#index.js?v=1"><img align="center" src="https://i.ibb.co/PG45Wxr/20220412-163446.jpg" alt="Scan QR" height="90" width="300" /></a>
+<a href="https://replit.com/@ANUSER1/BOT#index.js?v=1"><img align="center" src="https://i.ibb.co/PG45Wxr/20220412-163446.jpg" alt="Scan QR" height="90" width="300" /></a>
 <br>
 
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FANU-SER%2FCOSMO&template=https%3A%2F%2Fgithub.com%2FTOXICMASH%2FCOSMO.git/"><img align="center" src="https://i.ibb.co/GMfHgkg/20220412-162838.png" alt="Fork and deploy" height="90" width="300" /></a>

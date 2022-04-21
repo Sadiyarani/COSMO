@@ -12,7 +12,7 @@
 
 
 #### 𝕋𝕆𝕋𝔸𝕃 ℝ𝔼ℙ𝕆 𝕍𝕀𝔼𝕎𝕊 🤖🤖🤖                        
-![Visitor Count](https://profile-counter.glitch.me/ANUSER1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sadiyarani/count.svg)
   
 
 

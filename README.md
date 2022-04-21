@@ -7,7 +7,7 @@
 
 [![COSMIC](COSMIC.jpg?size=100000)](https:/sadiyarani/github.com/ANUSER1)
 
-## [![COSMO](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅰︎🅽︎🆄︎🆂︎🅴︎🆁︎+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅰︎🅽︎🆂︎🅷︎🅸︎🅳︎+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
+## [![COSMO](https:/sadiyarani/readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅰︎🅽︎🆄︎🆂︎🅴︎🆁︎+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅰︎🅽︎🆂︎🅷︎🅸︎🅳︎+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
 
 
 

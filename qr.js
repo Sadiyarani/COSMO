@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Yusuf Usta.
+WHITE;;;eyJjbGllbnRJRCI6InM4RmtxUTVpajhUc2RUZlJWaUhQMlE9PSIsInNlcnZlclRva2VuIjoiMUBIZk9HajRNejI0Q2V4dUl3RFRYNXhSWDR3Mnoya1JQUlZ1NDNMS3RpdklseWFLTjNBQ3lCVWdUZktoWld4NmtnOFhVRkpOWkFPaE5iTnc9PSIsImNsaWVudFRva2VuIjoiTnVBR0VqZmpUeHNIb0g5ZlR5bzIyM0Rrczcvb3NWUEVIT09PVXZQRU1Udz0iLCJlbmNLZXkiOiJldFdDdy9NWGtCSloyd1pWWnlXZW1mcmtTM1BZYTlPZTB6Tkd4a2VhdHhjPSIsIm1hY0tleSI6IlhSZE1POW1IN2xQeTJRbDNmdW52R1lSZDJkRm83NjZjTHl5bHl6Y1FGb2M9In0=/* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
